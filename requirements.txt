@@ -1,0 +1,5 @@
+Pillow==11.2.1
+pywin32==310
+pyinstaller==6.13.0
+urllib3==2.0.7
+fontTools==4.47.0 

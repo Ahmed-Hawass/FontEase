@@ -1,0 +1,1 @@
+"""Core module containing font management and system registry operations.""" 
